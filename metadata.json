@@ -1,0 +1,6 @@
+{
+  "name": "MineCraftWorld",
+  "description": "Videojuego sandbox de construcción, exploración, supervivencia y aventura en mundos de bloques 3D con la expansión The Voidlands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
